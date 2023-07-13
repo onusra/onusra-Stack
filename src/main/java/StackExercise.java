@@ -10,6 +10,8 @@ import java.util.*;
  * And you can read about the stack class here (deque exhibits the same behavior as Stack and contains the same
  * methods): https://docs.oracle.com/javase/7/docs/api/java/util/Stack.html
  */
+
+
 public class StackExercise {
     /**
      * Implement and return some class that implements Deque, such as ArrayDeque, which contains all the functionality
